@@ -21,3 +21,6 @@ Drakthar V1 enhances the vanilla Skyrim graphics by a lot. This modlist includes
 
 ## Credits
 A huge thanks to all the mod creators who made this collection possible. Each mod included in Drakthar is shown in the installation process or you can look at it when complete.
+
+## Post Installation
+I could not figure out how to install reshade and ENB into MO2 itself, so until I do you need to install Cabbage ENB and The New Dawn reshade.
